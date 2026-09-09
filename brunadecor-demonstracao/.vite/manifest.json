@@ -1,0 +1,310 @@
+{
+  "../../../../Downloads/bruna-decor-site/node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js": {
+    "file": "_next/static/chunks/hybrid-client-route-owner-DGustFXo.js",
+    "name": "hybrid-client-route-owner",
+    "src": "../../../../Downloads/bruna-decor-site/node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vinext-dSYCCqqy.js",
+      "_query-DugiHe4Q.js"
+    ]
+  },
+  "../../../../Downloads/bruna-decor-site/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-ok3y__CO.js",
+    "name": "layout-segment-context",
+    "src": "../../../../Downloads/bruna-decor-site/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_vinext-dSYCCqqy.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "../../../../Downloads/bruna-decor-site/node_modules/vinext/dist/shims/link.js": {
+    "file": "_next/static/chunks/link-C334fzFy.js",
+    "name": "link",
+    "src": "../../../../Downloads/bruna-decor-site/node_modules/vinext/dist/shims/link.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_vinext-dSYCCqqy.js",
+      "_framework-JGc2HF7T.js",
+      "_query-DugiHe4Q.js"
+    ],
+    "dynamicImports": [
+      "_vinext-dSYCCqqy.js"
+    ]
+  },
+  "_DialogTrigger-LAwyM6ny.js": {
+    "file": "_next/static/chunks/DialogTrigger-LAwyM6ny.js",
+    "name": "DialogTrigger",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_button-DtzsCI3p.js",
+      "_createLucideIcon-CAkK5FPT.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "_Icon-p31uH7n4.js": {
+    "file": "_next/static/chunks/Icon-p31uH7n4.js",
+    "name": "Icon",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "_arrow-right-B0F7hoeI.js": {
+    "file": "_next/static/chunks/arrow-right-B0F7hoeI.js",
+    "name": "arrow-right",
+    "imports": [
+      "_createLucideIcon-CAkK5FPT.js"
+    ]
+  },
+  "_button-DtzsCI3p.js": {
+    "file": "_next/static/chunks/button-DtzsCI3p.js",
+    "name": "button",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "_carousel-CPGpZyRM.js": {
+    "file": "_next/static/chunks/carousel-CPGpZyRM.js",
+    "name": "carousel",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_button-DtzsCI3p.js",
+      "_createLucideIcon-CAkK5FPT.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "_createLucideIcon-CAkK5FPT.js": {
+    "file": "_next/static/chunks/createLucideIcon-CAkK5FPT.js",
+    "name": "createLucideIcon",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_Icon-p31uH7n4.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "_dialog-BCG9Qw9P.js": {
+    "file": "_next/static/chunks/dialog-BCG9Qw9P.js",
+    "name": "dialog",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_button-DtzsCI3p.js",
+      "_DialogTrigger-LAwyM6ny.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "_favorites-provider-h_2-lisc.js": {
+    "file": "_next/static/chunks/favorites-provider-h_2-lisc.js",
+    "name": "favorites-provider",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_createLucideIcon-CAkK5FPT.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "_framework-JGc2HF7T.js": {
+    "file": "_next/static/chunks/framework-JGc2HF7T.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js"
+    ]
+  },
+  "_message-circle-DZ2E6YRS.js": {
+    "file": "_next/static/chunks/message-circle-DZ2E6YRS.js",
+    "name": "message-circle",
+    "imports": [
+      "_createLucideIcon-CAkK5FPT.js"
+    ]
+  },
+  "_product-actions-gTd0LCTw.js": {
+    "file": "_next/static/chunks/product-actions-gTd0LCTw.js",
+    "name": "product-actions",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_favorites-provider-h_2-lisc.js",
+      "_whatsapp-3uw6PWrF.js",
+      "_message-circle-DZ2E6YRS.js",
+      "_share-2-DD45K0oI.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "_product-quick-view-YnKUWAzW.js": {
+    "file": "_next/static/chunks/product-quick-view-YnKUWAzW.js",
+    "name": "product-quick-view",
+    "imports": [
+      "_product-actions-gTd0LCTw.js",
+      "components/product-card.tsx",
+      "_dialog-BCG9Qw9P.js",
+      "_DialogTrigger-LAwyM6ny.js",
+      "_arrow-right-B0F7hoeI.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "_query-DugiHe4Q.js": {
+    "file": "_next/static/chunks/query-DugiHe4Q.js",
+    "name": "query"
+  },
+  "_rolldown-runtime-QTnfLwEv.js": {
+    "file": "_next/static/chunks/rolldown-runtime-QTnfLwEv.js",
+    "name": "rolldown-runtime"
+  },
+  "_share-2-DD45K0oI.js": {
+    "file": "_next/static/chunks/share-2-DD45K0oI.js",
+    "name": "share-2",
+    "imports": [
+      "_createLucideIcon-CAkK5FPT.js"
+    ]
+  },
+  "_vinext-dSYCCqqy.js": {
+    "file": "_next/static/chunks/vinext-dSYCCqqy.js",
+    "name": "vinext",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js"
+    ],
+    "dynamicImports": [
+      "../../../../Downloads/bruna-decor-site/node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
+      "_vinext-dSYCCqqy.js"
+    ]
+  },
+  "_whatsapp-3uw6PWrF.js": {
+    "file": "_next/static/chunks/whatsapp-3uw6PWrF.js",
+    "name": "whatsapp"
+  },
+  "_whatsapp-icon-Byu1b3-o.js": {
+    "file": "_next/static/chunks/whatsapp-icon-Byu1b3-o.js",
+    "name": "whatsapp-icon",
+    "imports": [
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "components/catalog-grid.tsx": {
+    "file": "_next/static/chunks/catalog-grid-BVFeX3ad.js",
+    "name": "catalog-grid",
+    "src": "components/catalog-grid.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "components/product-card.tsx",
+      "_product-quick-view-YnKUWAzW.js",
+      "_button-DtzsCI3p.js",
+      "_DialogTrigger-LAwyM6ny.js",
+      "_createLucideIcon-CAkK5FPT.js",
+      "_arrow-right-B0F7hoeI.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "components/favorites-page.tsx": {
+    "file": "_next/static/chunks/favorites-page-B0bhzkTp.js",
+    "name": "favorites-page",
+    "src": "components/favorites-page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_favorites-provider-h_2-lisc.js",
+      "components/product-card.tsx",
+      "_whatsapp-3uw6PWrF.js",
+      "_createLucideIcon-CAkK5FPT.js",
+      "_message-circle-DZ2E6YRS.js",
+      "_framework-JGc2HF7T.js",
+      "../../../../Downloads/bruna-decor-site/node_modules/vinext/dist/shims/link.js"
+    ]
+  },
+  "components/infinite-product-rail.tsx": {
+    "file": "_next/static/chunks/infinite-product-rail-Btwsx_pd.js",
+    "name": "infinite-product-rail",
+    "src": "components/infinite-product-rail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "components/product-card.tsx",
+      "_product-quick-view-YnKUWAzW.js",
+      "_carousel-CPGpZyRM.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "components/product-card.tsx": {
+    "file": "_next/static/chunks/product-card-C2xRBcY8.js",
+    "name": "product-card",
+    "src": "components/product-card.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_favorites-provider-h_2-lisc.js",
+      "_whatsapp-3uw6PWrF.js",
+      "_arrow-right-B0F7hoeI.js",
+      "_share-2-DD45K0oI.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "components/product-gallery.tsx": {
+    "file": "_next/static/chunks/product-gallery-C3mGQWGP.js",
+    "name": "product-gallery",
+    "src": "components/product-gallery.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_carousel-CPGpZyRM.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "components/site-shell.tsx": {
+    "file": "_next/static/chunks/site-shell-HKVbPmfB.js",
+    "name": "site-shell",
+    "src": "components/site-shell.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_vinext-dSYCCqqy.js",
+      "_favorites-provider-h_2-lisc.js",
+      "_button-DtzsCI3p.js",
+      "_whatsapp-icon-Byu1b3-o.js",
+      "_DialogTrigger-LAwyM6ny.js",
+      "_createLucideIcon-CAkK5FPT.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "components/social-showcase.tsx": {
+    "file": "_next/static/chunks/social-showcase-CpRBdAqY.js",
+    "name": "social-showcase",
+    "src": "components/social-showcase.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_vinext-dSYCCqqy.js",
+      "_dialog-BCG9Qw9P.js",
+      "_whatsapp-icon-Byu1b3-o.js",
+      "_whatsapp-3uw6PWrF.js",
+      "_DialogTrigger-LAwyM6ny.js",
+      "_arrow-right-B0F7hoeI.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-NSroBFvb.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_vinext-dSYCCqqy.js",
+      "_framework-JGc2HF7T.js"
+    ],
+    "dynamicImports": [
+      "components/product-gallery.tsx",
+      "components/infinite-product-rail.tsx",
+      "../../../../Downloads/bruna-decor-site/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "_product-actions-gTd0LCTw.js",
+      "_vinext-dSYCCqqy.js",
+      "components/site-shell.tsx",
+      "components/catalog-grid.tsx",
+      "_Icon-p31uH7n4.js",
+      "components/favorites-page.tsx",
+      "components/social-showcase.tsx",
+      "../../../../Downloads/bruna-decor-site/node_modules/vinext/dist/shims/link.js",
+      "components/product-card.tsx"
+    ]
+  }
+}
