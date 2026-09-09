@@ -1,0 +1,1 @@
+var e=`5511984841372`;function t(t){return`https://wa.me/${e}?text=${encodeURIComponent(t)}`}function n(e,n=`gostaria de mais informações`){let r=`http://localhost:3000/produtos/${e.slug}`;return t(`Olá! Vi o ${e.name}, código ${e.code}, no site da Bruna Decor e ${n}. ${r}`)}export{t as n,n as t};

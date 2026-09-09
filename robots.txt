@@ -1,0 +1,39 @@
+#
+# BEM-VINDO A BRUNA DECOR
+#
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@             /\             @@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@        ____/  \____        @@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@       /            \       @@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@      /  BRUNA DECOR \      @@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@     /________________\     @@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@     |   []      []   |     @@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@     |       __       |     @@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@     |______|__|______|     @@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#
+# DESIGN QUE VOCE DESEJA. PRECO QUE SURPREENDE.
+# Moveis novos e decorados, selecionados para completar lares.
+#
+# Conheca a curadoria e acompanhe as novidades:
+# https://www.instagram.com/brunadecormoveis/
+#
+# Site desenvolvido pela empresa Kortex (@techkortex)
+# Atualizado em 03 set 2026
+# Sitemap: sera informado quando o dominio definitivo estiver ativo.
+#
+
+# BUSCADORES
+User-agent: *
+Allow: /
+
+# CONTEUDO PESSOAL
+Disallow: /favoritos
+
+# PARAMETROS SENSIVEIS OU DE RASTREAMENTO
+Disallow: /*accessToken=*
+Disallow: /*auth=*
+Disallow: /*token=*
+Disallow: /*utm_*
+Disallow: /*ref=*
+Disallow: /*srsltid=*
