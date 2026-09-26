@@ -1,0 +1,1 @@
+var e=`5511984841372`;function t(t){return`https://wa.me/${e}?text=${encodeURIComponent(t)}`}export{t};
